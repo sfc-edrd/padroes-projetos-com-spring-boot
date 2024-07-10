@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5796cc87-09fb-4d47-a6a8-7bb6d94de996" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XrMWjUcEnIJoXRxG3YaM0UdWY2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;graalvm-ce-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/eduardo.correa/Desktop/Projetos/DIO/padroes-projetos-com-spring-boot&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lab.learning.gof.facade" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lab.learning.gof.repository" />
+      <recent name="lab.learning.gof.strategy" />
+      <recent name="lab.learning.gof" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Facade">
+    <configuration name="EagerSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.learning.gof.pure_java.singleton.EagerSingleton" />
+      <module name="DioPadroesDeProjetosJavaPuro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.learning.gof.pure_java.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Facade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.learning.gof.pure_java.facade.Facade" />
+      <module name="DioPadroesDeProjetosJavaPuro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.learning.gof.pure_java.crm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LazyHolderSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.learning.gof.pure_java.singleton.LazyHolderSingleton" />
+      <module name="DioPadroesDeProjetosJavaPuro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.learning.gof.pure_java.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LazySingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.learning.gof.pure_java.singleton.LazySingleton" />
+      <module name="DioPadroesDeProjetosJavaPuro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.learning.gof.pure_java.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Robot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.learning.gof.pure_java.strategy.Robot" />
+      <module name="DioPadroesDeProjetosJavaPuro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.learning.gof.pure_java.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Facade" />
+        <item itemvalue="Application.LazyHolderSingleton" />
+        <item itemvalue="Application.Robot" />
+        <item itemvalue="Application.LazySingleton" />
+        <item itemvalue="Application.EagerSingleton" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5796cc87-09fb-4d47-a6a8-7bb6d94de996" name="Changes" comment="" />
+      <created>1699382781875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699382781875</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/PureJava/src/main/java/lab/learning/gof/pure_java/singleton/EagerSingleton.java</url>
+          <line>19</line>
+          <properties class="gof.pure_java.singleton.EagerSingleton" method="getInstance">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/PureJava/src/main/java/lab/learning/gof/pure_java/singleton/LazyHolderSingleton.java</url>
+          <line>26</line>
+          <properties class="gof.pure_java.singleton.LazyHolderSingleton">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/PureJava/src/main/java/lab/learning/gof/pure_java/singleton/EagerSingleton.java</url>
+          <line>7</line>
+          <properties field="instance" class="gof.pure_java.singleton.EagerSingleton" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PureJava/src/main/java/lab/learning/gof/pure_java/singleton/LazyHolderSingleton.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PureJava/src/main/java/lab/learning/gof/pure_java/singleton/LazyHolderSingleton.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PureJava/src/main/java/lab/learning/gof/pure_java/singleton/LazySingleton.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DioPadroesDeProjetos$EagerSingleton.ic" NAME="EagerSingleton Coverage Results" MODIFIED="1699383508472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lab.learning.gof.*</FILTER>
+    </SUITE>
+  </component>
+</project>
